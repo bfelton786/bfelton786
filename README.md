@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/bfelton786/threat-hunting-scenario)**
+- **[Threat Hunting Scenario (Bridge Takeover)](https://github.com/bfelton786/threat-hunting-scenario)**
 
 <hr/>
 
